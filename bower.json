@@ -1,0 +1,22 @@
+{
+  "name": "minimos",
+  "description": "plantilla de prueba para los minimos",
+  "main": "app.js",
+  "authors": [
+    "juan"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.4",
+    "angular": "angularjs#^1.5.4",
+    "angular-route": "^1.5.3"
+  }
+}
